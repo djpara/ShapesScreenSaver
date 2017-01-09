@@ -1,0 +1,20 @@
+{"shapes":[
+  {"type": "Circle",   "left": 150,  "top": 150, "right": 400, "bottom": 400, "x": -3, "y":  5, "rotation": 1, "color":    -65536, "borders": "PassThru" },
+  {"type": "Square",   "left":  25,  "top":  25, "right": 175, "bottom": 175, "x": -3, "y":  4, "rotation": 1, "color":  16711935, "borders": "Rebound"  },
+  {"type": "Circle",   "left": 200,  "top": 200, "right": 300, "bottom": 300, "x": -2, "y":  3, "rotation": 1, "color": -16711936, "borders": "Rebound"  },
+  {"type": "Square",   "left":  35,  "top":  45, "right": 115, "bottom": 125, "x": -2, "y":  2, "rotation": 1, "color":   8388736, "borders": "PassThru" },
+  {"type": "Garbage",  "left":  35,  "top":  45, "right": 115, "bottom": 125, "x": -1, "y":  1, "rotation": 1, "color": -16711936, "borders": "PassThru" },
+  {"type": "Line",     "left":  40,  "top": 300, "right": 150, "bottom": 300, "x": -1, "y":  0, "rotation": 1, "color":       255, "borders": "PassThru" },
+  {"type": "Line",     "left":  50,  "top": 360, "right": 150, "bottom": 360, "x":  0, "y": -1, "rotation": 1, "color":  16744448, "borders": "Rebound"  },
+  {"type": "Counter",  "left": 150,  "top": 400, "right": 250, "bottom": 450, "x":  0, "y": -2, "rotation": 1, "color":  16711935, "borders": "Rebound"  },
+  {"type": "Triangle", "left": 150,  "top": 400, "right": 250, "bottom": 500, "x":  1, "y": -3, "rotation": 1, "color":      -256, "borders": "Rebound"  },
+  {"type": "Triangle", "left": 150,  "top": 400, "right": 250, "bottom": 500, "x":  1, "y": -4, "rotation": 1, "color":      -256, "borders": "Explode"  },
+  {"type": "Triangle", "left": 150,  "top": 400, "right": 250, "bottom": 500, "x":  2, "y": -5, "rotation": 1, "color":       255, "borders": "Rebound"  },
+  {"type": "Triangle", "left": 150,  "top": 400, "right": 250, "bottom": 500, "x":  2, "y":  1, "rotation": 1, "color":      -256, "borders": "Splat"    },
+  {"type": "Junk",     "left":  50,  "top":  50, "right": 150, "bottom":  50, "x":  3, "y":  2, "rotation": 1, "color":        -1, "borders": "PassThru" },
+  {"type": "Ship",     "left":  50,  "top":  50, "right": 200, "bottom": 200, "x":  3, "y":  3, "rotation": 1, "color":  16773632, "borders": "PassThru" },
+  {"type": "Ship",     "left":  50,  "top":  50, "right": 200, "bottom": 200, "x":  4, "y": -3, "rotation": 1, "color":        -1, "borders": "PassThru" },
+  {"type": "Circle",   "left": 250,  "top": 250, "right": 300, "bottom": 300, "x":  5, "y": -4, "rotation": 1, "color":   8193492, "borders": "Rebound" },
+  {"type": "Square",   "left": 250,  "top": 100, "right": 300, "bottom": 300, "x":  7, "y":  3, "rotation": 1, "color":  14803225, "borders": "PassThru" },
+  {"type": "Ship",     "left":  50,  "top":  50, "right": 100, "bottom": 100, "x":  1, "y":  6, "rotation": 1, "color":     57825, "borders": "Rebound" }
+]}
