@@ -3,6 +3,8 @@
 This is a simple application that displays moving shapes with a screensaver style feel.  The purpose of this application
 was to practice reading and processing JSON input as well as practicing different design patterns.
 
+Secondary purpose was to practice creating and editing javadocs.
+
 Simply build and run application.  Two buttons will display:
   
   Start
